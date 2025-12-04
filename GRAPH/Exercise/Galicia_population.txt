@@ -1,0 +1,5 @@
+Provincia,Población,Color,¿Separado?
+A Coruña,1.120.760,Rojo,No
+Lugo,323.984,Azul,No
+Ourense,305.223,Amarillo,Sí
+Pontevedra,944.275,Verde,No

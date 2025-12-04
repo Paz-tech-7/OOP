@@ -1,6 +1,9 @@
 <?php
-require_once "../../../jpgraph/jpgraph.php";
-require_once "../../../jpgraph/jpgraph_line.php";
+
+
+//Rutas relativas a la carpeta actual
+require_once "../jpgraph/jpgraph.php";
+require_once "../jpgraph/jpgraph_line.php";
 
 
 
