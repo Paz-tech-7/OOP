@@ -11,6 +11,8 @@
     <img src="Backend_languages.php" alt="Grafico de lenguajes backend">
 
     <hr>
+
+    <h1>Poblacion de ciudades Gallegas</h1>
     <img src="Galicia_population.php" alt="Poblacion de galicia">
 </body>
 </html>
